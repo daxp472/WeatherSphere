@@ -35,7 +35,7 @@ Stay tuned for UI previews! 🎨
 Clone the repository and install dependencies:
 
 # Clone the repo
-git clone https://github.com/your-username/weathersphere.git
+git clone https://github.com/daxp472/weathersphere.git
 cd weathersphere
 
 # Install dependencies
@@ -45,7 +45,7 @@ npm install
 REACT_APP_WEATHER_API=your_api_key_here
 
 # Start the development server
-npm start
+npm run dev
 
 🌍 API Usage
 
